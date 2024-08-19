@@ -12,6 +12,9 @@
 * [![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)](https://github.com/islenemeireles)
 * [![React](https://img.shields.io/badge/React-v17.0.2-blue?logo=react)](https://github.com/islenemeireles)
 * [![Node.js](https://img.shields.io/badge/Node.js-v14.17-green?logo=node.js)](https://github.com/islenemeireles)
+* ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
+* ![Cypress](https://img.shields.io/badge/Cypress-4B5B5F?logo=cypress&logoColor=white)
+
 
 
 
