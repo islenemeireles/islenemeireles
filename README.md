@@ -4,7 +4,7 @@ I’m a versatile IT professional with a passion for both development and IT sup
 
 ## 👨‍💻 About Me
 
-- 💼 **Role:** FullStack Developer & IT Support Technician
+- 💼 **Role:** FullStack Developer & IT Support
 - 🌱 **Currently Learning:** Advanced Node.js & React Native
 - ⚡ **Fun Fact:** I have a deep love for creative coding.
 
